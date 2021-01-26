@@ -1,6 +1,6 @@
 # napari-simple-annotator
 
-[![License](https://img.shields.io/pypi/l/napari-simple-annotator.svg?color=green)](https://github.com/kevinyamauchi/napari-simple-annotator/raw/master/LICENSE)
+[![License](https://img.shields.io/pypi/l/napari-simple-annotator.svg?color=green)](https://github.com/kevinyamauchi/napari-simple-annotator/raw/main/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-simple-annotator.svg?color=green)](https://pypi.org/project/napari-simple-annotator)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-simple-annotator.svg?color=green)](https://python.org)
 [![tests](https://github.com/kevinyamauchi/napari-simple-annotator/workflows/tests/badge.svg)](https://github.com/kevinyamauchi/napari-simple-annotator/actions)
